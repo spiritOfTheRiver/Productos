@@ -1,0 +1,29 @@
+{
+  "productos": [
+    {
+      "id": 1,
+      "nombre": "Aprendiendo Redux",
+      "precio": "30"
+    },
+    {
+      "id": 2,
+      "nombre": "React y Redux",
+      "precio": 40
+    },
+    {
+      "id": 3,
+      "nombre": "Elisa",
+      "precio": "55"
+    },
+    {
+      "id": 5,
+      "nombre": "Paradise",
+      "precio": "15.5"
+    },
+    {
+      "id": 6,
+      "nombre": "Horse Power",
+      "precio": "65"
+    }
+  ]
+}
